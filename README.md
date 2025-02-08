@@ -21,7 +21,7 @@ The main purpose of this project is to create code of machine learning model tha
 
 * Jeffrey Lehrer
 * Maria Leal Cardenas
-* Arun
+* Arun Kumar Palanisamy
 
 ### Methods Used
 TO BE EDITED
