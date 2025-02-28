@@ -24,12 +24,12 @@ The main purpose of this project is to create code of machine learning model tha
 * Arun Kumar Palanisamy
 
 ### Methods Used
-TO BE EDITED
-* Transfer Learning
-* Computer Vision
+* Linear Regression
+* XGBoost
 * Data Visualization
 * Data Manipulation
 * Machine Learning
+* AWS Services: S3, Athena, DataWrangler 
 
 ### Technologies
 
@@ -60,7 +60,7 @@ https://www.kaggle.com/c/instacart-market-basket-analysis/data
 
 MIT License
 
-Copyright (c) [2025] [Jeffrey Lehrer], [Maria Leal Cardenas], [Arun]
+Copyright (c) [2025] [Jeffrey Lehrer], [Maria Leal Cardenas], [Arun Kumar Palanisamy]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -82,4 +82,4 @@ SOFTWARE.
 
 ## Acknowledgments
 
-We would like to thank Professor **FILL IN NAME HERE** as well as all of those who contributed to machine learning before us allowing us to complete this project.
+We would like to thank Professor Jules Malin as well as all of those who contributed to machine learning before us allowing us to complete this project.
