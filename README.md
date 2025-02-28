@@ -2,7 +2,7 @@
 
 This project is a part of the AAI-540 course in the Applied Artificial Intelligence Program at the University of San Diego (USD).
 
---Project Status: [Inprogress]
+--Project Status: [Completed]
 
 ## Installation
 
